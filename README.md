@@ -1,6 +1,6 @@
 <h1 align="center">
 	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎光临!&center=true&size=27">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);清醒温柔知进退，努力上进且优秀&center=true&size=27">
 	</a>
 </h1>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
@@ -9,9 +9,9 @@
 ## 👋 Hello
 
 <p>✍️&nbsp;&nbsp;大家好，我是junmtdh! 计算机科学与技术专业学生一枚，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
-<p>&emsp;&emsp;:sparkles:𝑷𝒂𝒔𝒔𝒊𝒐𝒏 𝒆𝒎𝒆𝒓𝒈𝒆𝒔 𝒘𝒊𝒕𝒉 𝒂 𝒇𝒊𝒓𝒎 𝒂𝒕𝒕𝒊𝒕𝒖𝒅𝒆, 𝒎𝒂𝒌𝒊𝒏𝒈 𝒕𝒉𝒆 𝒇𝒖𝒕𝒖𝒓𝒆 𝒑𝒓𝒐𝒎𝒊𝒔𝒊𝒏𝒈 𝒆𝒗𝒆𝒏 𝒅𝒖𝒓𝒊𝒏𝒈 𝒕𝒉𝒆 𝒆𝒂𝒓𝒍y 𝒔𝒕𝒂𝒈𝒆.</p>
-<p>&emsp;&emsp;:sparkles:热爱以坚定的姿态绽放，哪怕稚嫩也依然可期可望。</p>
-<p>&emsp;&emsp;:sparkles:我开始的太晚了,但总归不算太迟。春华秋实,努力一定会有收获,一枚学渣正在悄悄蜕变。。。</p>
+<p>&emsp;&emsp;:sparkles: 𝑷𝒂𝒔𝒔𝒊𝒐𝒏 𝒆𝒎𝒆𝒓𝒈𝒆𝒔 𝒘𝒊𝒕𝒉 𝒂 𝒇𝒊𝒓𝒎 𝒂𝒕𝒕𝒊𝒕𝒖𝒅𝒆, 𝒎𝒂𝒌𝒊𝒏𝒈 𝒕𝒉𝒆 𝒇𝒖𝒕𝒖𝒓𝒆 𝒑𝒓𝒐𝒎𝒊𝒔𝒊𝒏𝒈 𝒆𝒗𝒆𝒏 𝒅𝒖𝒓𝒊𝒏𝒈 𝒕𝒉𝒆 𝒆𝒂𝒓𝒍y 𝒔𝒕𝒂𝒈𝒆.</p>
+<p>&emsp;&emsp;:sparkles: 热爱以坚定的姿态绽放，哪怕稚嫩也依然可期可望。</p>
+<p>&emsp;&emsp;:sparkles: 我开始的太晚了,但总归不算太迟。春华秋实,努力一定会有收获,一枚学渣正在悄悄蜕变。。。</p>
 
 💪 正在学习: 
 
@@ -66,6 +66,10 @@
 </div>
 
 <div align="center" ><img order-radius="100px"  src="https://github.com/junmtdh/junmtdh/blob/86401b71a1f6db57e1d14462d2f7acc32384d911/he.jpg"/></div>
+
+</h1>
+<h2 align="center">只有你也想见我的时候，我们的见面才有意义。</h2>
+<br>
 <!--
 **junmtdh/junmtdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
